@@ -1,0 +1,150 @@
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+
+/************Nav Bar ***************/
+
+.logo {
+  height: 34px;
+  /* margin-left: -12px; */
+}
+
+#title {
+  background: linear-gradient(45deg, #E26D85, #523E5B, #1C1B2C);
+}
+
+
+
+#features {
+  background-color: #222222;
+  position: relative;
+
+}
+
+.left-content {
+  margin-top: 30%;
+}
+
+
+.right-content {
+
+}
+
+.btn {
+  margin-top: 16px;
+  margin-right: 14px;
+}
+
+.navbar {
+padding: 0;
+}
+
+.nav-item {
+padding: 0 14px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+
+}
+
+.home-mockup {
+  width: 100%;
+ transform: translate(120px, 3%);
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+
+  line-height: 1.5;
+}
+
+.feature-spread {
+  text-align: center;
+  padding: 70px 0;
+}
+
+.fa-pills {
+  margin-bottom: 30px;
+}
+
+.fa-clock {
+  margin-bottom: 30px;
+}
+
+.fa-check {
+  margin-bottom: 30px;
+}
+
+.feature-p {
+  padding: 0 5%;
+}
+
+/*******Testimonials*****/
+
+#testimonials {
+background-color: #523E5B;
+  text-align: center;
+}
+
+#press {
+  background-color: #523E5B;
+    padding-bottom: 8%;
+    text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: auto 20px;
+}
+
+.xxx {
+  width: 10%;
+  border-radius: 100%;
+  margin: 30px;
+}
+
+/* Pricing */
+
+#pricing {
+  background-color: #1C1B2C;
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
+
+.card-body {
+  background-color: black;
+}
+
+.card-header {
+  background-color: #523E5B;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
